@@ -1,4 +1,4 @@
-# Mocaplab Animation Szene
+# Interactive-NPC-Scene
 
 ![Mocaplab Animation](https://github.com/user-attachments/assets/4132cb5e-77ff-4a9b-8b31-650e979fb5dc)
 
@@ -37,7 +37,7 @@ In den folgenden Ordnern sind Screenshots und Videos enthalten, die einen Einbli
 
 - Drücke **T**, **H** oder **P** in der Nähe von NPC 2 (Charakter-Editor), um das Aussehen des Spielers zu ändern.
 - Näher dich NPC 1 an, um die Winken-Animation zu sehen.
-- Beobachte NPC 3, während er durch die Szene läuft.
+
 
 ## Installation:
 
